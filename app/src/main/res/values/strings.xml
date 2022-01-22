@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mobiles Store </string>
+
+    <string name="productName1">Iphone 12 64GB</string>
+    <string name="productName2">Samsung Galaxy S21 Ultra</string>
+    <string name="productName3">Xiaomi 11T Pro</string>
+    <string name="productName4">Huawei Y6p</string>
+    <string name="productName5">Samsung Galaxy Z Flip3</string>
+    <string name="productName6">Iphone 13</string>
+
+    <string name="productPrice1">4500 SR</string>
+    <string name="productPrice2">4500 SR</string>
+    <string name="productPrice3">2000 SR</string>
+    <string name="productPrice4">500 SR</string>
+    <string name="productPrice5">5000 SR</string>
+    <string name="productPrice6">6000 SR</string>
+
+    <string name="isVip1">yes</string>
+    <string name="isVip2">no</string>
+    <string name="isVip3">yes</string>
+    <string name="isVip4">no</string>
+    <string name="isVip5">yes</string>
+    <string name="isVip6">yes</string>
+
+    <string name="quantityNumber1">5</string>
+    <string name="quantityNumber2">5</string>
+    <string name="quantityNumber3">0</string>
+    <string name="quantityNumber4">0</string>
+    <string name="quantityNumber5">70</string>
+    <string name="quantityNumber6">36</string>
+
+    <string name="url1">https://www.google.com/aclk?sa=L&amp;ai=DChcSEwjs-Pm-p4b0AhXRu9UKHYLvDbkYABAIGgJ3cw&amp;ae=2&amp;sig=AOD64_12GpNFzPPBg6DBQdEVJmypFVtX9Q&amp;ctype=5&amp;q=&amp;ved=2ahUKEwi-k_G-p4b0AhXPxIUKHSgRClAQ9aACegQIARBC&amp;adurl=</string>
+    <string name="url2">https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=DChcSEwjvkszYp4b0AhWGGQYAHa5CA5EYABALGgJ3cw&amp;ae=2&amp;ohost=www.google.com&amp;cid=CAESP-D2XU81IgmSXIZGoP2pqtZPTV-sdvjB9_j_AgGU87Evtc9JiTuLS2xZxHZD_du61e_5it2P7H-79qugAq0P1Q&amp;sig=AOD64_3oCzPaaoz_F2euI-6NRmf6QU_2og&amp;ctype=5&amp;q=&amp;ved=2ahUKEwipisDYp4b0AhWPxIUKHUisD-oQ9aACegQIARBh&amp;adurl=</string>
+    <string name="url3">https://www.google.com/aclk?sa=L&amp;ai=DChcSEwiN0f7zp4b0AhUHndUKHaAuCdcYABAKGgJ3cw&amp;ae=2&amp;sig=AOD64_15dD_-PbicqMNmOwCOy1WLKyLD_w&amp;ctype=5&amp;q=&amp;ved=2ahUKEwiBnPTzp4b0AhWO4IUKHa3yDXAQ9aACegQIARBK&amp;adurl=</string>
+    <string name="url4">https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=DChcSEwispdaEqIb0AhWI4VEKHbRTA9AYABAKGgJ3cw&amp;ohost=www.google.com&amp;cid=CAESP-D2ESnReSzncwalhen9urS4srrI49l8wAQQC3BMBwhjHFCPMN9Qm6E27dRYXWwQ6LbbvP225fD4x3PFe-Y9Wg&amp;sig=AOD64_18MbwbQhWFOgGdA197QqLAVTy_yA&amp;ctype=5&amp;q=&amp;ved=2ahUKEwjmucyEqIb0AhWwzIUKHZihDoMQ9aACegQIARBD&amp;adurl=</string>
+    <string name="url5">https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=DChcSEwiT2fucqIb0AhXz_dUKHbiACkQYABAMGgJ3cw&amp;ohost=www.google.com&amp;cid=CAESP-D2yX2no8NGmG4EVdIHeqANX4fDf8ryRtwX8JzKZmn6nhRtPumyWi34kxDBmbVWXxStO1S4a9aB-0s1K5h64A&amp;sig=AOD64_0TipBTB3JYXTGPNHUxn-X3Pdm7ag&amp;ctype=5&amp;q=&amp;ved=2ahUKEwibxu6cqIb0AhVGzIUKHYWiDSsQ9aACegQIARBv&amp;adurl=</string>
+    <string name="url6">https://www.google.com/aclk?sa=L&amp;ai=DChcSEwjwltKpgob0AhUClIYKHSz5CBYYABANGgJ2dQ&amp;ae=2&amp;ei=FKeHYfPfJoeMwbkPtZGOoA0&amp;sig=AOD64_0hJS_4ry7EO5d99HzD9HoOmNjgwg&amp;ctype=5&amp;q=&amp;sqi=2&amp;ved=2ahUKEwjzucqpgob0AhUHRjABHbWIA9QQ9aACegQIARBC&amp;adurl=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
